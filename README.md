@@ -32,7 +32,7 @@ I run a real e-commerce business and a research-grade AI stack out of the same g
 
 I'm looking for **staff / principal ML-infra roles at frontier-lab-adjacent companies** *or* **seed funding to turn this stack into a product**. If your team ships agentic systems that actually have to work in production and you've been wondering "could one person own that," yes — and the GitHub list above is the receipts.
 
-📫 **Contact:** [karaan.yaadav@gmail.com](mailto:karaan.yaadav@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karany97/)
+📫 **Contact:** [karaan.yaadav@gmail.com](mailto:karaan.yaadav@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karanyadav97/)
 
 🏗️ **Currently:** building the next thing in the open. Investors / hiring managers — DMs open.
 
