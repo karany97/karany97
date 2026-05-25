@@ -2,9 +2,22 @@
 
 Founder, [Nandai](https://nandai.store). Operating on-premise AI infrastructure that powers a production e-commerce business.
 
+📍 Vancouver, BC · 🇮🇳 Indian luxury jewelry · 🛠️ MIT-licensed AI stack on 2× RTX 3090
+
 ---
 
 Nandai is a luxury Indian jewelry company shipping live orders across Flipkart, Shopify, and Amazon. To run it at the cost structure the category demands, I built the AI stack from scratch — on premise, open-sourced under MIT, benchmarked against my own workload before anything ships.
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│  STACK FOOTPRINT                                               │
+├────────────────────────────────────────────────────────────────┤
+│  2× NVIDIA RTX 3090 (one Ti, one regular)  ·  187 GB DDR4      │
+│  211 GB DeepSeek-R1 weights running on 48 GB VRAM              │
+│  12 public MIT repos · 1 upstream PR merged · 6 MCP servers    │
+│  Cloudflare-tunneled, no public IPs, full observability        │
+└────────────────────────────────────────────────────────────────┘
+```
 
 ### Production stack (all MIT, all on GitHub)
 
@@ -37,4 +50,12 @@ Nandai is a luxury Indian jewelry company shipping live orders across Flipkart, 
 
 > The thesis: production-grade agentic AI does not require a hyperscaler bill — it requires correct engineering. Nandai is the proof.
 
-[karaan.yaadav@gmail.com](mailto:karaan.yaadav@gmail.com) · [linkedin.com/in/karanyadav97](https://www.linkedin.com/in/karanyadav97/) · [nandai.store](https://nandai.store)
+---
+
+### Contact
+
+📧 Business: [karan@nandai.store](mailto:karan@nandai.store)
+📧 Personal: [karaan.yaadav@gmail.com](mailto:karaan.yaadav@gmail.com)
+🔗 [linkedin.com/in/karanyadav97](https://www.linkedin.com/in/karanyadav97/)
+🌐 [nandai.store](https://nandai.store)
+🐦 [@karany97](https://twitter.com/karany97)
